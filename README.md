@@ -9,6 +9,6 @@ I am actively looking for opportunities in web development.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Design Patterns and TDD.
 - 🤝 Open for collaborations in web app projects.
-
-
+- :books: Researcher. I learn vary fast!
+- :hearts: I love programming!!!
 ---
